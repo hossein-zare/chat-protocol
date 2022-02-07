@@ -1,4 +1,4 @@
-# The Swing Chat Protocol
+# Chat Protocol
 A chat protocol over Websocket.
 
 ## Table of Contents
