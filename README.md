@@ -1,3 +1,7 @@
 # The Swing Chat Protocol
+A chat protocol over Websocket.
+
 ## Table of Contents
-1. [Authentication](#authentication)
++ [Authentication](#authentication)
+
+## Authentication
